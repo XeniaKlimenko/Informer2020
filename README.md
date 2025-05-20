@@ -13,7 +13,7 @@
 
 ### Клонирование репозитория:
 ```bash
-git clone 
+git clone https://github.com/XeniaKlimenko/Informer2020.git
 cd Informer2020
 ```
 
